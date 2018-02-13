@@ -1,0 +1,9 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+  height: 60px;
+  font-size: 18px;
+}
+
+li {
+	color: #8C3223;
+}
